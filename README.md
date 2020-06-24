@@ -1,4 +1,4 @@
-# SemanOmnistack- Be The Hero
+# SemanaOmnistack- Be The Hero
 
 Projeto para estudo de desenvolvimento web e mobile, através do curso da Rocket Seat: Semana OmniStack. 
 
