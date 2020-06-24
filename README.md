@@ -25,3 +25,7 @@ CADASTRO
 Para adicionar uma ONG, basta inserir as informações nos campos requeridos.
 ![](images/signup.JPG)
 
+CASOS
+
+Essa é a visualização do casos cadastrados por ONG, a busca é feita através do ID de cada ONG, assim cada ONG tem o controle dos casos, podendo apagá-los assim que um herói/heroína ajudar.
+![](images/cases.JPG)
